@@ -1,6 +1,6 @@
 ---
-name: 文章推荐
-about: 推荐优秀英文文章
+name: 推荐优秀文章
+about: 推荐给译者翻译
 title: 推荐优秀文章
 labels: 文章推荐
 assignees: devgogo
