@@ -1,6 +1,6 @@
 ---
-name: 申请译者
-about: 译者申请表
+name: 申请成为译者
+about: 为中文社区贡献力量
 title: 申请成为译者
 labels: 申请译者
 assignees: devgogo
