@@ -1,6 +1,6 @@
 ---
 name: 申请译者
-about: 申请表
+about: 译者申请表
 title: 申请成为译者
 labels: 申请译者
 assignees: devgogo

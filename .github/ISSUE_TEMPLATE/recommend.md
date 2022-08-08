@@ -1,11 +1,13 @@
 ---
 name: 文章推荐
-about: 优秀英文文章推荐（翻译）
+about: 推荐优秀英文文章
 title: 推荐优秀文章
 labels: 文章推荐
 assignees: devgogo
 
 ---
+
+我推荐以下文章：
 
 - 原文链接：https://
 - 推荐理由：可选
